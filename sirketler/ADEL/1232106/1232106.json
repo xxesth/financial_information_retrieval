@@ -1,0 +1,18 @@
+{
+    "girizgah": {
+        "baslik": "İşlem Sırası Durdurma Bildirimi",
+        "bildirim_türü": "DKB",
+        "kod": "",
+        "ad": "",
+        "tarih": "03.01.2024 17:06:59",
+        "ilgili_sirketler": "[ADEL]"
+    },
+    "yazi": {
+        "ozet": "ADEL.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır",
+        "aciklama": "ADEL.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır."
+    },
+    "tablo": {
+        "TABLOCUK": {},
+        "Açıklamalar": {}
+    }
+}
